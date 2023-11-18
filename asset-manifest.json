@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hangman-Game-using-ReactJS/static/css/main.11aae2a9.css",
+    "main.js": "/Hangman-Game-using-ReactJS/static/js/main.7683539d.js",
+    "index.html": "/Hangman-Game-using-ReactJS/index.html",
+    "main.11aae2a9.css.map": "/Hangman-Game-using-ReactJS/static/css/main.11aae2a9.css.map",
+    "main.7683539d.js.map": "/Hangman-Game-using-ReactJS/static/js/main.7683539d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11aae2a9.css",
+    "static/js/main.7683539d.js"
+  ]
+}
